@@ -1,0 +1,12 @@
+###
+
+GET http://localhost:5000/genres/
+Accept: application/json
+
+###
+
+GET http://localhost:5000/genres/6
+Accept: application/json
+
+###
+
